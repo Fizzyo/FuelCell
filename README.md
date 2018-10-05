@@ -1,5 +1,5 @@
-# Thanks for helping the Microsoft Fizzyo Challenge
-----
+# Thanks for helping Project Fizzyo 
+---
 
 Our hope is the Fizzyo device this will motivate children to do their physio every day and potentially help other families with Cystic Fibrosis as well!
 
